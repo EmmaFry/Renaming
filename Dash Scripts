@@ -1,13 +1,13 @@
-DASH_Service_Report_date_v2 -> DASH_Service_to mysql database_last 2 days
+DASH_Service_Report_date_v2 -> DASH_Service_toMySqlDatabase_last2Days
 
-DASHNextGen_Service_Report_date_BIG_v2 -> DASH_Service_to mysql database_last 7 months
+DASHNextGen_Service_Report_date_BIG_v2 -> DASH_Service_toMySqlDatabase_last7Months
 
 DASH_Print_Tool_Master
 
 DASH_Master_for_Task_Scheduler
 
-
+DASHNextGen_Service_EnteredDate_v2 -> DASH_Service_last6Months
 
 DASHNextGen_Builder -> DASH_Builder_toMySqlDatabase
 
-DASHNextGen_ALL_Files_delimited_date -> DASH_File_allFiles_last2Weeks
+DASHNextGen_ALL_Files_delimited_date -> DASH_File_allFiles_toMySqlDatabase_last2Weeks
