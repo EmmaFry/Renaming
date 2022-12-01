@@ -12,3 +12,11 @@ DASHNextGen_Builder -> DASH_Builder_toMySqlDatabase
 
 DASHNextGen_ALL_Files_delimited_date -> DASH_File_allFiles_toMySqlDatabase_last2Weeks
 
+
+DASHNextGen_Job_date_BIG_v2 -> DASH_Job_toMySqlDatabase_last6Months
+currently exports to -> DASH_Job_Export_Queue_Reader_Date_v2.csv
+new CSV name: DASH_Job_toMySqlDatabase_last6Months.csv
+
+DASHNextGen_Service_DateClicker
+
+DASHNextGen_Service_EnteredDate_v2
