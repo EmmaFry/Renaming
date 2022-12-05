@@ -27,3 +27,12 @@ new CSV name: DASH_Job_toMySqlDatabase_last6Months.csv
 DASHNextGen_Service_DateClicker
 
 DASHNextGen_Service_EnteredDate_v2
+
+DASHNextGen_job_Queue_Reader -> DASH_Job_PrintTool_queueReader
+old CSV name:
+new CSV name: DASH_Job_PrintTool_queueReader.csv
+
+DASHNextGen_File_Queue_Reader -> DASH_File_PrintTool_queueReader
+old CSV name:
+new CSV name: DASH_File_PrintTool_queueReader.csv
+
