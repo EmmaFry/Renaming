@@ -1,0 +1,17 @@
+manual_csv_to_mysqluploader -> 
+
+EkoDataPull_2.9_Sheet_Reader -> Ekotrope_PrintTool_nonE*andE*SheetReader
+
+EkoDataPull_2.9_KPI_Not_Ready_Sheet_Reader -> Ekotrope_PrintTool_notReadySheetReader
+
+EkoDataPull_2.9_ID_KPI_Batch -> Ekotrope_PrintTool_KPIBatch
+
+EkoDataPull_2.9_BIG_SUPER_LOOP -> Ekotrope_DirectPullMaster_last2Days
+
+EkoDataPull_2.8 ID LIST_LOOPER_unregistered ids included -> Ekotrope_nvrReporting_unregisteredIDs
+
+db_export -> computerEaseToMySQL
+
+csv_chunker -> Ekotrope_CombinedSpecData ???
+
+beeper_module -> ??? don't know if we use this one
