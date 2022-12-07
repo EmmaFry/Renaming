@@ -24,7 +24,7 @@ DASHNextGen_Job_date_BIG_v2 -> DASH_Job_toMySqlDatabase_last6Months
 old CSV name: DASH_Job_Export_Queue_Reader_Date_v2.csv
 new CSV name: DASH_Job_toMySqlDatabase_last6Months.csv
 
-DASHNextGen_Service_DateClicker
+DASHNextGen_Service_DateClicker -> DASH_Service_createdDateToLastUpdated
 
 DASHNextGen_Service_EnteredDate_v2 -> DASH_Service_toMySqlDatabase_last6Months
 
