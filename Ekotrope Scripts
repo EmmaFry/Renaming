@@ -14,7 +14,7 @@ db_export -> computerEaseToMySQL
 
 csv_chunker -> Ekotrope_CombinedSpecData ???
 
-beeper_module -> ??? don't know if we use this one
+beeper_module -> I don't think we use this, I archived it in case we need it again. ****ARCHIVED******
 
 
 Important CSVs that get read by Master Scripts (but they're named vaguely!!)
