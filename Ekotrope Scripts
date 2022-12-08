@@ -17,7 +17,11 @@ csv_chunker -> Ekotrope_CombinedSpecData ???
 beeper_module -> ??? don't know if we use this one
 
 
-CSVs
+Important CSVs that get read by Master Scripts (but they're named vaguely!!)
 
 ShortList.csv 
 What this is: a shortened list of ekotrope ids going from March 2022 to December 2022 (check on if this changes month-to-month)
+
+mydata.csv
+What this is: another shortened list of ekotrope ids, the headers makes it look like the same data in eko_rem_full 
+
