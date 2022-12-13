@@ -1,1 +1,19 @@
+Not_Ready_cleanup_job -> KPI_Job_notReadyCleanup
 
+Not_Ready_cleanup_all_files -> KPI_allFiles_notReadyCleanup
+
+Not_ready_Bundler -> KPI_notReadyBundler
+
+Low_KPI_Rerun_File_Update -> KPI_lowKPIRerun_fileUpdate
+
+DASHNextGen_Service_Report_date -> DASH_Service_toMySqlDatabase_last2Days
+
+DASHNextGen_Service_DateClicker -> DASH_Service_createdDateToLastUpdated
+
+DASHNextGen_KPI_Bundler -> KPI_Bundler
+
+DASHNextGen_job_read_Service_Report_Export -> DASH_Job_
+
+DASH_ServiceID_Deleter_from_db_Emils_Not_Ready_Q -> 
+
+DASH_allFiles_toMySqlDatabase_last2Weeks -> 
