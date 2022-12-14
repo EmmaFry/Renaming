@@ -12,8 +12,8 @@ DASHNextGen_Service_DateClicker -> DASH_Service_createdDateToLastUpdated
 
 DASHNextGen_KPI_Bundler -> KPI_Bundler
 
-DASHNextGen_job_read_Service_Report_Export -> DASH_Job_toMySqlDatabase_
+DASHNextGen_job_read_Service_Report_Export -> DASH_Job_toMySqlDatabase_readServiceReportExport
 
-DASH_ServiceID_Deleter_from_db_Emils_Not_Ready_Q -> 
+DASH_ServiceID_Deleter_from_db_Emils_Not_Ready_Q -> DASH_serviceIdDeleter_fromNotReadyQueue
 
 DASHNextGen_ALL_Files_delimited_date -> DASH_allFiles_toMySqlDatabase_last2Weeks
