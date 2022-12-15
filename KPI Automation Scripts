@@ -13,6 +13,7 @@ DASHNextGen_Service_DateClicker -> KPI_Service_createdDateToLastUpdated
 DASHNextGen_KPI_Bundler -> KPI_Bundler
 
 DASHNextGen_job_read_Service_Report_Export -> KPI_Job_toMySqlDatabase_readServiceReportList
+(this is tied to DASH_Job_queueReader, it looks like it does the same thing)
 
 DASH_ServiceID_Deleter_from_db_Emils_Not_Ready_Q -> KPI_serviceIdDeleter_fromNotReadyQueue
 
