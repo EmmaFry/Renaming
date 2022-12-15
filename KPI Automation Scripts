@@ -1,9 +1,3 @@
-Not_Ready_cleanup_job -> KPI_Job_notReadyCleanup
-(this is tied to DASH_Job_queueReader, it looks like it does the same thing)
-
-Not_Ready_cleanup_all_files -> KPI_allFiles_notReadyCleanup
-looks like a draft of DASHNextGen_File_Queue_Reader
-
 Not_ready_Bundler -> KPI_notReadyBundler
 
 Low_KPI_Rerun_File_Update -> KPI_lowKPIRerun_fileUpdate
@@ -20,3 +14,13 @@ DASHNextGen_job_read_Service_Report_Export -> KPI_Job_toMySqlDatabase_readServic
 DASH_ServiceID_Deleter_from_db_Emils_Not_Ready_Q -> KPI_serviceIdDeleter_fromNotReadyQueue
 
 DASHNextGen_ALL_Files_delimited_date -> KPI_allFiles_toMySqlDatabase_last2Weeks
+
+
+Cleanup_all_files -> KPI_allFiles_nonEandECleanup
+looks like a draft of DASHNextGen_File_Queue_Reader
+
+Not_Ready_cleanup_all_files -> KPI_allFiles_notReadyCleanup
+looks like a draft of DASHNextGen_File_Queue_Reader
+
+Not_Ready_cleanup_job -> KPI_Job_notReadyCleanup
+(this is tied to DASH_Job_queueReader, it looks like it does the same thing)
